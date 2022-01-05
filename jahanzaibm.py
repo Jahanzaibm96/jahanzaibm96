@@ -39,7 +39,7 @@ def jalan(z):
 logo = """
    JAHANZAIB MALIK
    ▄︻̷̿┻̿═━一
-   THE ANONYMOUS jahanzaibmalik TRICKER 
+   THE ANONYMOUS lovehacker TRICKER 
    THE LEGEND ℒℴνℯ
    THE GAME CHANGER ℒℴνℯ
    pakistani hackers
